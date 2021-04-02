@@ -1,0 +1,11 @@
+"subject","variable","sentence","WORD_NOVELTY","CONTEXT_NOVELTY","PARTICIPANT_SIMILARITY","SENTENCE_SIMILARITY","RHYTHMIC_SCORE","PHONETIC_SCORE","TOTAL_SCORE"
+"AAAAA","ERDE","Rosen erfrischen die Einwohner",12,12,20,20,5,4,15
+"AAAAA","LUST","Lustige Tiere springen umher",12,10,20,20,0,5,13
+"BBBBB","ERDE","Eine Ratte duftet eklig",13,13,20,20,0,2,14
+"BBBBB","LUST","Tiefe Stimmen unterhalten lange",10,10,20,20,5,5,13
+"CCCCC","ERDE","Dinosaurier essen englisches Rhinozerosfleisch",10,16,20,20,0,6,15
+"CCCCC","LUST","Tanzbären sind unter Leute",4,10,20,20,0,7,11
+"DDDDD","ERDE","Eloquente Richter erfreuen Dichter",14,16,20,20,15,6,18
+"DDDDD","LUST","Leichtes Unterholz treibt stolz",13,15,20,20,10,6,17
+"EEEEE","ERDE","Elfride rät Dietrich einzusteigen",10,17,20,20,0,7,16
+"EEEEE","LUST","Lebendige Spinnen töten uns",12,11,20,20,5,6,14

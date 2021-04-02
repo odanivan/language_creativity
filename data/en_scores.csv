@@ -1,0 +1,11 @@
+"subject","variable","sentence","WORD_NOVELTY","CONTEXT_NOVELTY","PARTICIPANT_SIMILARITY","SENTENCE_SIMILARITY","RHYTHMIC_SCORE","PHONETIC_SCORE","TOTAL_SCORE"
+"AAAAA","ROOF","Five otters run outside",10,8,20,20,0,6,12
+"AAAAA","ELSE","Lovely seals elect establishment",13,10,20,20,0,7,14
+"BBBBB","ROOF","Orbit rockets fly offshore",12,11,20,20,0,6,14
+"BBBBB","ELSE","Elephants love stock exchanges",11,6,20,20,0,6,12
+"CCCCC","ROOF","Officer Run offers fun",9,6,20,20,5,8,11
+"CCCCC","ELSE","Sick elders leave earth",11,7,20,20,0,6,12
+"DDDDD","ROOF","Foxes occupy oiled rails",16,12,20,20,0,6,16
+"DDDDD","ELSE","Snakes entertain lurking evil",14,12,20,20,0,5,14
+"EEEEE","ROOF","Rainforests often overcome fires",13,9,20,20,0,8,14
+"EEEEE","ELSE","Edison likes seing electricity",10,9,20,20,0,8,13
